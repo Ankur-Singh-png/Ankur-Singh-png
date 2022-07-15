@@ -1,20 +1,21 @@
-### Hi there 👋
 
-<!--
-**Indominous1/Indominous1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **Indominous1/Indominous1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><h1 align="center">
+## You are welcome to my Github. Have fun exploring the repositories and do give them a ✨, if you like them.
+
+- 🔭 I’m currently working on Problem Solving
+- 🌱 I’m currently learning C++, Java, Python.
+- 👯 I’m looking to collaborate on Building amazing Technical Stuff ✨
+
+- 💬 Ask me about Games...
+- 📫 How to reach me: ankursinghsk759@gmail.com
+- 😄 Pronouns: Him/He
+- ⚡ Fun fact: I am die-hard fan of Robert Downey Jr. ✨
+ <!-- - 🤔 I’m looking for help with -->
+
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ankur....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ankur....;Nice+to+meet+you!👋&center=justifycontent&size=35">
   </a>
 </h1>
