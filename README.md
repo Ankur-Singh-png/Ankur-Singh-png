@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Building amazing Technical Stuff ✨
 
 - 💬 Ask me about Games...
-- 📫 How to reach me: ankursinghsk759@gmail.com
+- 📫 How to reach me: <a href="mailto: ankursinghsk759@gmail.com">Email</a>
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I am die-hard fan of Robert Downey Jr. ✨
  <!-- - 🤔 I’m looking for help with -->
