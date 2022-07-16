@@ -19,3 +19,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ankur....;Nice+to+meet+you!👋&center=justifycontent&size=35">
   </a>
 </h1>
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Indominous1&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
