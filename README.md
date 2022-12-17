@@ -5,7 +5,7 @@
 ## You are welcome to my Github. Have fun exploring the repositories and do give them a ✨, if you like them.
 
 - 🔭 I’m currently working on Problem Solving
-- 🌱 I’m currently learning C++, Java, Python.
+- 🌱 I’m currently learning C++, Java, Python, Web Development.
 - 👯 I’m looking to collaborate on Building amazing Technical Stuff ✨
 
 - 💬 Ask me about Games...
