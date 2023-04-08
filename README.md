@@ -1,8 +1,6 @@
 
 
 <!-- **Indominous1/Indominous1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indominous1&label=Profile%20views&color=0e75b6&style=flat" alt="indominous" /> </p>
-
 ## You are welcome to my Github. Have fun exploring the repositories and do give them a ✨, if you like them.
 
 - 🔭 I’m currently working on Problem Solving
@@ -23,6 +21,8 @@
 <hr>
 <h2 align="center"> <i> Github Stats </i> </h2>
 <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=indominous1&label=Profile%20views&color=0e75b6&style=flat" alt="indominous" /> </p>
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
