@@ -21,7 +21,12 @@
 <hr>
 <h2 align="center"> <i> Github Stats </i> </h2>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=indominous1&label=Profile%20views&color=0e75b6&style=flat" alt="indominous" /> </p>
+
+<p align="center"> 
+ <a href="https://github.com/antonkomarev/github-profile-views-counter" title="Go to source">
+ <img src="https://komarev.com/ghpvc/?username=indominous1&label=Profile%20views&color=ff69b4&style=flat" alt="indominous" /> 
+  </a>
+  </p>
 
 <p align=center>
   <div align=center>
