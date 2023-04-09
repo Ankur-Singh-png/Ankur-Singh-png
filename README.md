@@ -1,8 +1,7 @@
 
 
 <!-- **Indominous1/Indominous1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<img align="right" alt="coding" height="350" width="350" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> 
-<h2> You are welcome to my Github. Have fun exploring the repositories and do give them a ✨, if you like them.</h2>
+## You are welcome to my Github. Have fun exploring the repositories and do give them a ✨, if you like them.
 
 - 🔭 I’m currently working on Problem Solving
 - 🌱 I’m currently learning C++, Java, Python, Web Development.
