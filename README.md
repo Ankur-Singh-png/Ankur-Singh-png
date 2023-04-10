@@ -75,24 +75,28 @@
 
 <p align="center"> 
  <a href="https://github.com/antonkomarev/github-profile-views-counter" title="Go to source">
- <img src="https://komarev.com/ghpvc/?username=indominous1&label=Profile%20views&color=ff69b4&style=flat" alt="indominous" /> 
+ <img src="https://komarev.com/ghpvc/?username=indominous1&label=Profile%20views&color=ff69b4&style=flat&bg_color=0D1117" alt="indominous" /> 
   </a>
   </p>
 
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=Indominous1&theme=black-ice&hide_border=true" alt="Indominous1" />
+      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=Indominous1&theme=black-ice&hide_border=true&bg_color=0D1117" alt="Indominous1" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=Indominous1&show_icons=true&theme=dark&hide_border=true" />
+      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=Indominous1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=400align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indominous1&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
+    </a> -->
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img width=400 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indominous1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+ </a>
+  <br/>
+
   </div>
   <br
 </p>
