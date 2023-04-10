@@ -82,7 +82,7 @@
 
 <p align=right>
   <div >
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img width=380 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indominous1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img width=360 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indominous1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
      </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=445 src="https://github-readme-stats.vercel.app/api?username=Indominous1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
