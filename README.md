@@ -78,22 +78,23 @@
  <img src="https://komarev.com/ghpvc/?username=indominous1&label=Profile%20views&color=ff69b4&style=flat&bg_color=0D1117" alt="indominous" /> 
   </a>
   </p>
+  
 <br>
 
-<p align=right>
-  <div >
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img width=360 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indominous1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-     </a>
+  <br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img  width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=Indominous1&theme=black-ice&hide_border=true&background=0D1117" alt="Indominous1" />
+    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=445 src="https://github-readme-stats.vercel.app/api?username=Indominous1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=Indominous1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
   </div>
   
-  <p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img  width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=Indominous1&theme=black-ice&hide_border=true&background=0D1117" alt="Indominous1" />
-    </a>
- </p>
- 
-  <br>
-</p>
+  <br><br>
+  <div align=center>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img width=400 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indominous1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+     </a>
+  </div>
+<br>
