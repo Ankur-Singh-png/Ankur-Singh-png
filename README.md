@@ -78,8 +78,7 @@
  <img src="https://komarev.com/ghpvc/?username=indominous1&label=Profile%20views&color=ff69b4&style=flat&bg_color=0D1117" alt="indominous" /> 
   </a>
   </p>
-  
-  <br>
+ 
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
