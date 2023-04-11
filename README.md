@@ -79,8 +79,6 @@
   </a>
   </p>
   
-<br>
-
   <br>
 <p align=center>
   <div align=center>
