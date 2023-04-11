@@ -91,8 +91,8 @@
       <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=Indominous1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
   </div>
-  
-  <br><br>
+ 
+  <br>
   <div align=center>
  <a href="https://github.com/anuraghazra/github-readme-stats"><img width=400 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indominous1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
      </a>
