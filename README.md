@@ -4,15 +4,14 @@
 ## You are welcome to my Github. Have fun exploring the repositories and do give them a ✨, if you like them.
 
 - 🔭 I’m currently working on Problem Solving
-- 🌱 I’m currently learning C++, Java, Python, Web Development.
+- 🌱 I’m currently working on C/C++, Web Developement, Spring Boot, Mobile Application Developement
 - 👯 I’m looking to collaborate on Building amazing Technical Stuff ✨
 
-- 💬 Ask me about Games...
-- 📫 How to reach me: <a href="mailto: ankursinghsk759@gmail.com">Email</a>
+- 💬 Ask me about Techs...
+- 📫 How to reach me: <a href="mailto: ankursinghvns759@gmail.com">Email</a>
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I am die-hard fan of Robert Downey Jr. ✨
 
- <!-- - 🤔 I’m looking for help with -->
 
 
 <h1 align="center">
@@ -25,22 +24,25 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/ankur-singh-20031803-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankur-singh-20031803-" height="35" width="40" />
+<a href="https://www.linkedin.com/in/ankur-singh-715a79323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankur Singh" height="35" width="40" />
  </a>
 <a href="https://www.codechef.com/users/indominous1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="indominous1" height="35" width="40" />
  </a>
-<a href="https://www.hackerrank.com/indominous759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="indominous759" height="35" width="40" />
+<a href="https://www.hackerrank.com/profile/indominous759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Ankur Singh" height="35" width="40" />
  </a>
-<a href="https://www.leetcode.com/indominous1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="indominous1" height="35" width="40" />
+<a href="https://leetcode.com/u/Indominous1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="35" width="40" />
  </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages:</h3>
 <p align="center">
- <a href="https://github.com/devicons/devicon/tree/master/icons" target="_blank" rel="noreferrer"> <img src="https://github.com/Indominous1/Indominous1/blob/main/30_github.c0a4dde53e.png" alt="github" width="50" height="50"/> 
  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/> 
- </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/> 
+  </a> 
+ <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> 
+  </a> 
+ <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="50" height="50"/> 
+  </a> 
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> 
  </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"width="50" height="50"/> 
@@ -64,8 +66,29 @@
  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/> 
  </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
+<a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" alt="react-router" width="50" height="50"/>
+</a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="firebase" width="50" height="50"/>
+</a> 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/>
 </a>
+</p>
+
+
+<h3 align="center">Tools:</h3>
+<p align="center">
+ <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+ </a> 
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pyharm" width="45" height="45"/> 
+  </a> 
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="pyharm" width="45" height="45"/> 
+  </a>
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> 
+  </a> 
+ <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="45" height="45"/> 
+ </a> 
+ <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="45" height="45"/> 
+ </a>
 </p>
 
 
@@ -95,3 +118,4 @@
      </a>
   </div>
 <br>
+
