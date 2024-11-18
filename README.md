@@ -26,7 +26,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ankur-singh-715a79323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankur Singh" height="35" width="40" />
  </a>
-<a href="https://www.codechef.com/users/indominous1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="indominous1" height="35" width="40" />
+<a href="https://www.codechef.com/users/indominous1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Ankur-Singh-png" height="35" width="40" />
  </a>
 <a href="https://www.hackerrank.com/profile/indominous759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Ankur Singh" height="35" width="40" />
  </a>
@@ -98,14 +98,14 @@
 
 <p align="center"> 
  <a href="https://github.com/antonkomarev/github-profile-views-counter" title="Go to source">
- <img src="https://komarev.com/ghpvc/?username=indominous1&label=Profile%20views&color=ff69b4&style=flat&bg_color=0D1117" alt="indominous" /> 
+ <img src="https://komarev.com/ghpvc/?username=indominous1&label=Profile%20views&color=ff69b4&style=flat&bg_color=0D1117" alt="Ankur-Singh" /> 
   </a>
   </p>
  
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img  width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=Indominous1&theme=black-ice&hide_border=true&background=0D1117" alt="Indominous1" />
+      <img  width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=Indominous1&theme=black-ice&hide_border=true&background=0D1117" alt="Ankur-Singh" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=Indominous1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
