@@ -1,5 +1,6 @@
-<!--![logo](https://github.com/Indominous1/Indominous1/blob/main/Github%20Banner.gif)-->
-<a href="#"><img width="97%" height="auto" src="./Github Banner.gif" height="175px"/></a>
+<!--![logo](https://github.com/Indominous1/Indominous1/blob/main/Github%20Banner.gif) 
+<a href="#"><img width="97%" height="auto" src="./Github Banner.gif" height="175px"/></a> -->
+
 <!-- **Indominous1/Indominous1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## You are welcome to my Github. Have fun exploring the repositories and do give them a ✨, if you like them.
 
